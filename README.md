@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,4 +13,5 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # simple_web
 I am building a responsive webpage using React and Vite, styled with Tailwind CSS and structured with HTML.
->>>>>>> 2452be0fdf7affbadcd7c84c154805aad9923bc0
+
+for run >>>> install node >>> in terminall npm run dev
